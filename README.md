@@ -1,0 +1,2 @@
+# Loot
+Guarantee drop
